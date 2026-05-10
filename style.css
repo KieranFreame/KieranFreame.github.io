@@ -204,9 +204,9 @@ hr.divider {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--border);
+  color: var(--border);*/
   font-size: 0.85rem;
-  letter-spacing: 0.05em;*/
+  letter-spacing: 0.05em;
 }
 
 .project-body { padding: 1.5rem; }
