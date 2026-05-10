@@ -207,8 +207,6 @@ hr.divider {
   color: var(--border);
   font-size: 0.85rem;
   letter-spacing: 0.05em;
-  /* Remove the line below once you add a real <img> tag */
-  min-height: 180px;
 }
 
 .project-body { padding: 1.5rem; }
