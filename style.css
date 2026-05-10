@@ -179,7 +179,7 @@ hr.divider {
 /* ── PROJECTS ── */
 .projects-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
   gap: 1.5rem;
 }
 
@@ -201,7 +201,7 @@ hr.divider {
   aspect-ratio: 16/9;
   object-fit: contain;
   background: #1e1e1e;
-  /*display: flex;*/
+  display: flex;
   align-items: center;
   justify-content: center;
   color: var(--border);
