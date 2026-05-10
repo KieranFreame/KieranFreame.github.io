@@ -199,7 +199,7 @@ hr.divider {
 .project-img {
   width: 100%;
   aspect-ratio: 16/9;
-  object-fit: scale-down;
+  object-fit: contain;
   background: #1e1e1e;
   display: flex;
   align-items: center;
