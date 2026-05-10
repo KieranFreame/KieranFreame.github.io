@@ -197,14 +197,14 @@ hr.divider {
 }
 
 .project-img {
-  /*width: 100%;
+  width: 100%;
   aspect-ratio: 16/9;
   object-fit: contain;
   background: #1e1e1e;
-  display: flex;
+  /*display: flex;*/
   align-items: center;
   justify-content: center;
-  color: var(--border);*/
+  color: var(--border);
   font-size: 0.85rem;
   letter-spacing: 0.05em;
 }
