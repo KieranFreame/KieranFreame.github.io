@@ -197,7 +197,7 @@ hr.divider {
 }
 
 .project-img {
-  width: 100%;
+  width: 50%;
   aspect-ratio: 16/9;
   object-fit: cover;
   background: #1e1e1e;
@@ -320,15 +320,6 @@ hr.divider {
   justify-content: center;
   gap: 1rem;
   flex-wrap: wrap;
-}
-
-/* ── FOOTER ── */
-footer {
-  border-top: 1px solid var(--border);
-  padding: 2rem 0;
-  text-align: center;
-  color: var(--border);
-  font-size: 0.8rem;
 }
 
 /* ── RESPONSIVE ── */
